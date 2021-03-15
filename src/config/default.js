@@ -17,7 +17,7 @@ const config = {
     sitePath: null
   },
 
-  refresh_token: REFRESH_TOKEN,
+  
   client_id: 'c5bc944c-8cdc-40a0-bb05-b25f5e7ce763',
   client_secret: CLIENT_SECRET,
 
